@@ -14,7 +14,6 @@
         android:layout_marginEnd="92dp"
         android:layout_marginBottom="8dp"
         android:text="Karen"
-
         android:layout_margin="8dp"
         android:textSize="20dp"
         app:layout_constraintBottom_toTopOf="@+id/tvNumber"
@@ -24,12 +23,12 @@
 
     <TextView
         android:id="@+id/tvNumber"
-        android:layout_width="185dp"
-        android:layout_height="56dp"
+        android:layout_width="95dp"
+        android:layout_height="41dp"
         android:layout_marginTop="80dp"
         android:layout_marginEnd="56dp"
         android:text="073467988"
-        android:textSize="20dp"
+        android:textSize="18dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -38,8 +37,9 @@
         android:layout_width="135dp"
         android:layout_height="165dp"
         android:layout_marginStart="24dp"
-        android:layout_marginTop="22dp"
+        android:layout_marginTop="16dp"
         android:layout_marginEnd="24dp"
+        android:text="0715197707"
         app:layout_constraintEnd_toStartOf="@+id/tvNumber"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
